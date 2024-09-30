@@ -47,7 +47,7 @@ a {
   text-decoration: none;
 }
 
-/* 1. Custom CSS */
+/*------------------------- 1. Custom CSS -------------------------*/
 
 ::-webkit-scrollbar {
   width: 6px;
@@ -145,7 +145,7 @@ button {
   box-shadow: none !important;
 }
 
-/* 2-Navbar */
+/*------------------------- 2-Navbar -------------------------*/
 
 .header_wrapper .navbar {
   padding: 15px 0;
@@ -207,7 +207,7 @@ button {
   color: var(--primary-text);
 }
 
-/* 3-Banner */
+/*------------------------ 3-Banner ------------------------*/
 
 .banner_wrapper {
   width: 100%;
@@ -221,7 +221,7 @@ button {
   padding: 200px 0 100px 0;
 }
 
-/* 4.About */
+/*------------------------- 4.About -------------------------*/
 
 .about_wrapper ul.nav-pills {
   border: 1px solid var(--gray-color);
@@ -277,7 +277,7 @@ button {
   color: var(--text-gray);
 }
 
-/* 5.Services */
+/*-------------------------- 5.Services --------------------------*/
 
 .services_wrapper .card {
   background-color: var(--bg-dark-blue);
@@ -290,7 +290,7 @@ button {
   transform: translateY(-5px);
 }
 
-/* 6.Portfolio */
+/*--------------------------- 6.Portfolio ---------------------------*/
 
 .portfolio_wrapper .card {
   height: 100%;
@@ -311,7 +311,7 @@ button {
   background-position: bottom center;
 }
 
-/* 7.Contacts */
+/*---------------------------- 7.Contacts ----------------------------*/
 .contact_wrapper .form-control,
 .contact_wrapper textarea {
   background-color: transparent;
@@ -336,7 +336,7 @@ button {
   color: var(--text-gray);
 }
 
-/* 8.Footer */
+/*---------------------------- 8.Footer ----------------------------*/
 .footer_wrapper {
   background-color: var(--bg-dark-blue);
   padding: 20px 0;
